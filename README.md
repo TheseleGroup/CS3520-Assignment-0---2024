@@ -14,3 +14,6 @@ Khiba27
 N311Q.jpg
 Kabelo27
 Repholositsoe
+
+; here is the link to our Report: 
+https://github.com/TheseleGroup/2-binary-Adder-Report.git
