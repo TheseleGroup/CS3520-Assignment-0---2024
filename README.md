@@ -16,6 +16,6 @@ Kabelo27
 Repholositsoe
 
 ; here is the link to our Report: 
-https://github.com/TheseleGroup/2-binary-Adder-Report.git , 
+[https://github.com/TheseleGroup/2-binary-Adder-Report.git](https://github.com/n4p000-q/CS3520-assignment-0.git) , 
 
 you may Watch the video simulation here https://www.youtube.com/watch?v=o_3akUZPG7s
